@@ -44,5 +44,4 @@ Tracks revenue and order trends over time.
 - Explore opportunities to grow accessory and clothing sales.
 - Use customer insights to improve targeted marketing campaigns.
 
-- 
 
